@@ -33,11 +33,11 @@ My home lab has limited virtual machine memory, so I run MISP when needed and st
 
 **Events list from the MISP lab**
 
-![MISP events list](screenshots/misp_events_populated.png)
+![MISP events list](misp_events_populated.png)
 
 **Event detail and attributes**
 
-![MISP event detail with attributes](screenshots/misp_event_detail.png)
+![MISP event detail with attributes](misp_event_detail.png)
 
 ## Future Improvements
 
